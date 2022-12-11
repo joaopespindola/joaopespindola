@@ -1,1 +1,2 @@
-Caso queira me contatar, fico muito disponível na steam -> https://steamcommunity.com/id/joojj/ 
+If you want to contact me -> joaopedro.espindola@outlook.com 
+
