@@ -1,2 +1,2 @@
-If you want to contact me -> joaopedro.espindola@outlook.com 
+Caso queira entrar em contato comigo -> joaopedro.espindola@outlook.com 
 
