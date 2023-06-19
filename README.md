@@ -15,10 +15,11 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/jpedroo_0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/joão-pedro-cruz-espíndola-7994ab246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+<a href="https://open.spotify.com/user/31isidjgl4pbdksgekwhkvmcwo4a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <div align="center">  
-<a href="https://steamcommunity.com/id/joojj/" target="_blank"><img src="https://img.shields.io/badge/-Steam-%23E4405F?style=for-the-badge&logo=steam&logoColor=white"</a>
+<a href="https://steamcommunity.com/id/joojj/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
 </div>
 
 ### Skills:
