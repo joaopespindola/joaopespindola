@@ -19,6 +19,7 @@
 
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
@@ -33,7 +34,7 @@
 ### Studying in this moment:
 ![Springboot](https://img.shields.io/badge/-springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
