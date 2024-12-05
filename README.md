@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joão-pedro-cruz-espíndola-7994ab246/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopespindola/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://open.spotify.com/user/31isidjgl4pbdksgekwhkvmcwo4a" target="_blank">
@@ -17,7 +17,6 @@
   <a href="https://steamcommunity.com/id/joojj/" target="_blank">
     <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
-</div>
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
@@ -36,6 +35,7 @@
 ### Studying in this moment:
 ![Springboot](https://img.shields.io/badge/-springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
 
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
