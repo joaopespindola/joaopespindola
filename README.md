@@ -11,21 +11,20 @@
   <a href="https://www.linkedin.com/in/joaopespindola/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://open.spotify.com/user/31isidjgl4pbdksgekwhkvmcwo4a" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-  </a>
   <a href="https://steamcommunity.com/id/joojj/" target="_blank">
     <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
